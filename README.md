@@ -7,7 +7,7 @@ This is a flashcard application that displays the answer to a question after tap
 
 ### App Walk-though
 
-<img src="https://imgur.com/HOXVZd4" width=200><br>
+<img src="https://i.imgur.com/HOXVZd4.gifv" width=200><br>
 
 
 ## Required
