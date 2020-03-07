@@ -7,7 +7,7 @@ A modest flashcard application capable of allowing the user to create a custom f
 
 ### App Walk-though
 
-<img src="[Imgur](https://i.imgur.com/ah7Lghq.gifv)" width=200><br>
+<img src="https://i.imgur.com/ah7Lghq.gif" width=200><br>
 
 
 ## Required
